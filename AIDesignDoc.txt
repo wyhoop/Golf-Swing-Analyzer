@@ -1,0 +1,39 @@
+ - Background
+    - Importance of Swing Analysis in the Improvement of Golf Swing Form
+        - Swing Analysis is imperative in the possible correction and ultimate improvement of the User's Swing.
+        - Swing Analysis focuses on club path, club head position, swing tempo, and swing speed.
+    - Traditional vs AI Driven Approach
+        - The aim of this project is not to replace traditional methods, but rather to complete them. AI can be used in a complementary manner to help provide insight
+          into more tedious aspects of a golf swing.
+
+ - Literature Review
+    - TO BE ADDED LATER
+
+ - Methodology
+    - System Design
+        - Processes
+            1 - Acquiring data.
+            2 - Preprocessing.
+            3 - Splitting and balancing the dataset.
+            4 - Building and training the model.
+            5 - Evaluation.
+            6 - Hyperparameter tuning.
+
+    - Components
+        - Various cameras (Iphone, Canon, GoPro)
+        - Processing Library - OpenCV, YOLOV5
+        - UI - TKinter possibly
+
+    - Data Collection   
+        - Golf driving range (Natural lies and grass)
+        - Wohali (Turf for more controlled view)
+
+    - Dataset Preparation
+        - Collection of labeled golf swing data. This will be accomplished through the videoing of my golf swings for sample data.
+        - Annotations for training and evaluation
+
+    - Implementation 
+        - OpenCV Use
+            - Utilize several different types of swings with various impact types (Good and Bad Impacts)
+        
+        
